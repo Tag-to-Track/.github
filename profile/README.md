@@ -1,12 +1,14 @@
-## Hi there 👋
+## Tag-to0-Track Github Repos ##
+Here are some guidelines for making repositories.
 
-<!--
+### SharePoint Planner Integration
 
-**Here are some ideas to get you started:**
+Make sure to add one of these codes as the last 3 characters of your repos name (Exp. AppName-APG). This will allow the system to automatically tag issues to the right group.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Here is the list of applicable keys:
+| Group                         | Code |
+|-------------------------------|------|
+| Algorithm and Positioning     | APG  |
+| Business and Outreach         | BOG  |
+| Chip Development and Hardware | DHG  |
+| User Interface                | UIG  |
