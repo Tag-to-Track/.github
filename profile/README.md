@@ -12,3 +12,12 @@ Here is the list of applicable keys:
 | Business and Outreach         | BOG  |
 | Chip Development and Hardware | DHG  |
 | User Interface                | UIG  |
+
+
+Current Repository Guide:
+| Repository | Description |
+|-------------------------------|------|
+| TtTApplicationUIG | User Interface |
+| c209-aoa-tag-DHG | Code to run on tag |
+| EMQX-Broker-5.0.15-APG | MQTT Broker (network manager) |
+| MQTT-UI-Tester-APG | Tests MQTT connections |
